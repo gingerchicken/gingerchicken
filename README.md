@@ -3,6 +3,8 @@
 
 ✨ I have been really interested in programming since I was about 9 years old and have always dreamed of being a software developer.
 
+🥺 My apologise for the empty repository list, a lot of my work I do not feel comfortable with making public _as of yet_.
+
 <!--
 **gingerchicken/gingerchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
