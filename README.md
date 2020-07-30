@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!
+🌱 I’m currently studying computer science dreaming of landing a job in silicon valley as a fulltime developer.
+✨ I have been really interested in programming since I was about 9 years old and have always dreamed of being a software developer ever since I first saw people programming (if I remember correctly they were using Python) for the first time.
 
 <!--
 **gingerchicken/gingerchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
