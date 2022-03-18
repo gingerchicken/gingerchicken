@@ -1,21 +1,34 @@
-### Hey there!
-🌱 I’m currently studying computer science dreaming of landing a job in silicon valley as a fulltime developer.
+<div align="center">
+    <h1 style="font-weight: bolder;">Hello there! 👋👋👋</h1>
+    <h2>I write code mostly for the ❤️ of it!</h2>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=gingerchicken.gingerchicken" alt="visitors"/>
+</div>
 
-✨ I have been really interested in programming since I was about 9 years old and have always dreamed of being a software developer.
+## Personal Preferences 👌
+ Feature | Preference
+--- | --- 
+**Languages**  | ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Java&logoColor=white)
+**Database**  | <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%2300f.svg?logo=mariadb&amp;logoColor=white" style="max-width: 100%;"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=MySQL&amp;logoColor=white" style="max-width: 100%;">
+**Operating System**  | <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-black?logo=arch-linux"> <img alt="Debian" src="https://img.shields.io/badge/Debian-black?logo=Debian">
 
-🥺 My apologise for the empty repository list, a lot of my work I do not feel comfortable with making public _as of yet_.
+## Interesting Statistics 📘
+<div align="center">
+    <div>
+        <img src="https://activity-graph.herokuapp.com/graph?username=gingerchicken&hide_border=true&theme=redical">
+    </div>
+</div>
 
-<!--
-**gingerchicken/gingerchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contribution Overview 🔍
+<div align="center">
+    <span>
+        <img height=175px src="https://github-readme-stats.vercel.app/api?username=gingerchicken&show_icons=true&theme=radical&include_all_commits=true">
+    </span>
+    <span>
+        <img height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchicken&theme=radical&layout=compact">
+    </span>
+    <span>
+        <img height=175px src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchicken"></img>
+    </span>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Shoutout to https://github.com/BEPb/BEPb for the inspiration ❤️ -->
