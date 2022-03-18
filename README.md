@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 style="font-weight: bolder;">Hello there! 👋👋👋</h1>
-    <h2>I write code mostly for the ❤️ of it!</h2>
+    <h1 style="font-weight: bolder;">Hello there! 👋</h1>
+    <p style="font-weight: bolder; font-size: larger;">I write code mostly for the ❤️ of it!</p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=gingerchicken.gingerchicken" alt="visitors"/>
 </div>
 
