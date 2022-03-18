@@ -21,13 +21,13 @@
 ### Contribution Overview 🔍
 <div align="center">
     <span>
-        <img height=175px src="https://github-readme-stats.vercel.app/api?username=gingerchicken&show_icons=true&theme=radical&include_all_commits=true">
+        <img height=165px src="https://github-readme-stats.vercel.app/api?username=gingerchicken&show_icons=true&theme=radical&include_all_commits=true">
     </span>
     <span>
-        <img height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchicken&theme=radical&layout=compact">
+        <img height=165px src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchicken&theme=radical&layout=compact">
     </span>
     <span>
-        <img height=175px src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchicken"></img>
+        <img height=250px src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchicken"></img>
     </span>
 </div>
 
