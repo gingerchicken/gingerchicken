@@ -11,13 +11,6 @@
 **Database**  | <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%2300f.svg?logo=mariadb&amp;logoColor=white" style="max-width: 100%;"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=MySQL&amp;logoColor=white" style="max-width: 100%;">
 **Operating System**  | <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-black?logo=arch-linux"> <img alt="Debian" src="https://img.shields.io/badge/Debian-black?logo=Debian">
 
-## Interesting Statistics 📘
-<div align="center">
-    <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=gingerchicken&hide_border=true&theme=redical">
-    </div>
-</div>
-
 ### Contribution Overview 🔍
 <div align="center">
     <span>
