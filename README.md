@@ -1,20 +1,7 @@
 <div align="center">
     <h1 style="font-weight: bolder;">Hello there! 👋</h1>
-    <p style="font-weight: bolder; font-size: larger;">I write code mostly for the ❤️ of it!</p>
+    <p style="font-weight: bolder; font-size: larger;">I write <a href="OVERVIEW.md">code</a> mostly for the ❤️ of it!</p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=gingerchicken.gingerchicken" alt="visitors"/>
-</div>
-
-### Contribution Overview 🔍
-<div align="center">
-    <span>
-        <img height=165px src="https://github-readme-stats.vercel.app/api?username=gingerchicken&show_icons=true&theme=radical&include_all_commits=true">
-    </span>
-    <span>
-        <img height=165px src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchicken&theme=radical&layout=compact">
-    </span>
-    <span>
-        <img height=165px src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchicken"></img>
-    </span>
 </div>
 
 ## Personal Preferences 👌
